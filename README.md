@@ -1,4 +1,4 @@
-# The repository involves working with the [Open Food Facts](https://world.openfoodfacts.org/data) dataset, focusing on three main parts:
+# The repository involves experiments with the [Open Food Facts](https://world.openfoodfacts.org/data) dataset, focusing on three main parts:
 
 ## [Exploratory Data Analysis (EDA)]():
 

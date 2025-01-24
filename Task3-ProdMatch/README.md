@@ -4,6 +4,7 @@
 
 - Preprocess product descriptions
 - Create feature vectors
+- Maintain them in [Faiss](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/) 
 - Apply (n*n) similarity scoring
 - Set threshold for automatic matching
 - Manual validation of borderline cases

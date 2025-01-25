@@ -9,11 +9,11 @@
 
 ## Data Types:
 
-- Text information
-- Product images
+- [Text information](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/EDA.ipynb)
+- [Product images](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/Image_Processing.ipynb)
 - Nutritional facts
 - Multilingual product details
-- [Data attributes' details](https://static.openfoodfacts.org/data/data-fields.txt) 
+- [Data attributes' details](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/food_table_schema.csv) and [One sample data](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/example_row_df.csv) 
 
 ## Data Collection Method:
 

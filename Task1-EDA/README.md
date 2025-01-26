@@ -17,7 +17,6 @@
 
 ## Data Collection Method:
 
-
 - User-submitted
 - Collaborative validation
 - Regular updates

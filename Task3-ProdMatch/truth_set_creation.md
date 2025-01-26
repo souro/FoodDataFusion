@@ -7,7 +7,7 @@
 ## ML
 - Classifier
     - Use the small set of known matches.
-    - Generate non-matching pairs (discussed [here]())
+    - Generate non-matching pairs (discussed [here](https://github.com/souro/FoodDataFusion/blob/main/Task3-ProdMatch/negative_samples_generation.md))
     - Models such as Logistic Regression or Neural Networks.
     - Use the trained model to predict the likelihood of pairs being matches.
     - Thresold: Select pairs with high confidence scores (say, probability > 0.9) as matches.

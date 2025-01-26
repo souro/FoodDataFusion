@@ -2,21 +2,11 @@
 
 ## Truth Set Creation with Minimal Manual Effort:
 
-- Preprocess product descriptions
-- Create feature vectors
-- Maintain them in [Faiss](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/) 
-- Apply (n*n) similarity scoring
-- Set threshold for automatic matching
-- Manual validation of borderline cases
-- [More details]()
+- [Details](https://github.com/souro/FoodDataFusion/blob/main/Task3-ProdMatch/truth_set_creation.md)
 
 ## Techniques for negative case generation:
 
-- Synthetic negative sampling
-- Hard negative
-- Cross-domain negative generation
-- Contrastive learning approaches
-- [More details]()
+- [Details](https://github.com/souro/FoodDataFusion/blob/main/Task3-ProdMatch/negative_samples_generation.md)
 
 ## Distinguishing Easy vs Hard Samples:
 
@@ -25,16 +15,14 @@
 - Embedding space distribution
 - Prediction confidence
 - Model uncertainty metrics
-- [More details]()
 
-## Split Strategy and Model Update:
+## Split Strategy:
 
 - Initial split (with some hypothesis) 70% train, 15% validation, 15% test
 - Incremental learning framework
 - Continuous model refinement
 - Active learning for challenging samples
 - Periodic retraining with new labeled data
-- [More details]()
 
 ## Matching Pair Model Design:
 
@@ -46,14 +34,12 @@
     - Recall
     - F1 Score
     - Mean Average Precision
-- [More details]()
 
 ## Similar Description Retrieval:
 
-- Use dense retrieval methods
+- Dense retrieval methods
 - Semantic search techniques
 - Difference from matching:
-    - Focus on neighborhood retrieval
+    - Neighborhood retrieval
     - Relaxed similarity constraints
     - Broader matching criteria
-- [More details]()

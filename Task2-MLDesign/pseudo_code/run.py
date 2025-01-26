@@ -1,8 +1,8 @@
 import pandas as pd
-from src.data_preprocessing import load_data, preprocess_data, stratified_split
-from src.utils import batch_download_images
-from src.ocr_integration import perform_ocr
-from src.ml_pipeline import prepare_labels, train_model, evaluate_model, save_model
+from data_preprocessing import load_data, preprocess_data, stratified_split
+from utils import batch_download_images
+from ocr_processing import perform_ocr
+from pipeline import prepare_labels, train_model, evaluate_model, save_model
 import os
 
 def main():

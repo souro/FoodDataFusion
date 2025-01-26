@@ -9,8 +9,8 @@
 
 ## Data Types:
 
-- [Text information](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/EDA.ipynb)
-- [Product images](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/Image_Processing.ipynb)
+- Text information ([analysis](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/EDA.ipynb))
+- Product images ([processing](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/Image_Processing.ipynb))
 - Nutritional facts
 - Multilingual product details
 - [Data attributes' details](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/food_table_schema.csv) and [One sample data](https://github.com/souro/FoodDataFusion/blob/main/Task1-EDA/example_row_df.csv) 

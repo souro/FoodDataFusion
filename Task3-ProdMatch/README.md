@@ -10,11 +10,11 @@
 
 ## Distinguishing Easy vs Hard Samples:
 
-- [Details]()
+- [Details](https://github.com/souro/FoodDataFusion/blob/main/Task3-ProdMatch/categorize_neg_samples.md)
 
 ## Split Strategy:
 
-- [Deatils]()
+- [Deatils](https://github.com/souro/FoodDataFusion/blob/main/Task3-ProdMatch/data_splitting.md)
 
 ## Matching Pair Model Design:
 

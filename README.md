@@ -23,14 +23,15 @@
 
 
 - Creating a Truth Set:
-    - How to identify matching products with minimal manual work.
+    - Identify matching products with minimal manual work
 - Handling Limited Negative Cases:
-    - Strategies when you only have a few confirmed matches.
+    - Strategies when only have a few confirmed matches (positives)
 - Distinguishing Samples:
-    - How to separate easy-to-match and hard-to-match pairs.
+    - (Obtain negative cases then) How to separate easy-to-match and hard-to-match pairs
 - Data Splitting Strategy:
-    - How to divide your data for training and using new data after deployment.
+    - How to divide split the data for training
+    - How to use new labeled data after deployment
 - Model Design for Matching:
-    - What type of model, loss function, and performance metrics to use.
+    - What type of model, loss function, and performance metrics to use
 - Retrieving Similar Descriptions:
-    - Whether to use the same setup as the matching task for finding similar product descriptions.
+    - Whether to use the same setup as the matching task for finding similar product descriptions

@@ -18,8 +18,8 @@
 
 ## Matching Pair Model Design:
 
-- [Details]()
+- [Details](https://github.com/souro/FoodDataFusion/blob/main/Task3-ProdMatch/matching_pair_arc_details.md)
 
 ## Similar Description Retrieval:
 
-- [Details]()
+- [Details](https://github.com/souro/FoodDataFusion/blob/main/Task3-ProdMatch/ret_similar_desc.md)

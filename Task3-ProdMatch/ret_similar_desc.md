@@ -1,5 +1,5 @@
 ## Two diff tasks
-- Product Matching (as discussed [here]())
+- Product Matching (as discussed [here](https://github.com/souro/FoodDataFusion/blob/main/Task3-ProdMatch/matching_pair_arc_details.md))
 
 ## Retrieving Similar Product Descriptions
 - Given a product description, retrieve other descriptions that are semantically similar or represent the same product from a different dataset

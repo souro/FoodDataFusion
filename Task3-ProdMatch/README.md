@@ -10,36 +10,16 @@
 
 ## Distinguishing Easy vs Hard Samples:
 
-- Semantic similarity
-- Feature vector proximity
-- Embedding space distribution
-- Prediction confidence
-- Model uncertainty metrics
+- [Details]()
 
 ## Split Strategy:
 
-- Initial split (with some hypothesis) 70% train, 15% validation, 15% test
-- Incremental learning framework
-- Continuous model refinement
-- Active learning for challenging samples
-- Periodic retraining with new labeled data
+- [Deatils]()
 
 ## Matching Pair Model Design:
 
-- Siamese/Triplet neural network
-- Transformer-based embeddings
-- Contrastive loss function
-- Key Performance Indicators (KPIs):
-    - Precision
-    - Recall
-    - F1 Score
-    - Mean Average Precision
+- [Details]()
 
 ## Similar Description Retrieval:
 
-- Dense retrieval methods
-- Semantic search techniques
-- Difference from matching:
-    - Neighborhood retrieval
-    - Relaxed similarity constraints
-    - Broader matching criteria
+- [Details]()
